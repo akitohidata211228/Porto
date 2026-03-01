@@ -643,6 +643,6 @@
         <audio id="audioPlayer" preload="metadata"></audio>
     </div>
 
-   <script src="/kontak/halo.js"></script>
+   <script src="halo.js"></script>
 </body>
 </html>
