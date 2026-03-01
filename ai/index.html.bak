@@ -379,7 +379,7 @@
         });
         themeToggle.addEventListener('click', toggleTheme);
         backButton.addEventListener('click', () => {
-            window.location.href = '/kontak';
+            window.location.href = 'kontak.html';
         });
         
         // Load any existing conversation when page loads
