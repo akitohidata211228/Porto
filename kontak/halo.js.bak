@@ -40,12 +40,12 @@ themeToggle.addEventListener('click', () => {
 
 // Back button functionality
 backButton.addEventListener('click', () => {
-    window.location.href = '/skill';
+    window.location.href = 'skill/index.html';
 });
 
 // AI button functionality
 aiToggle.addEventListener('click', () => {
-    window.location.href = '/ai';
+    window.location.href = 'ai/index.html';
 });
 
 function getAverageColor(imageElement, callback) {
