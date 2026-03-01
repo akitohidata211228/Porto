@@ -702,7 +702,7 @@
     });
 
     nextBtn.addEventListener('click', () => {
-        window.location.href = '/kontak';
+        window.location.href = 'kontak/index.html';
     });
 
     // Add particles background
